@@ -1,4 +1,4 @@
-  Bootstrap 使用一种响应式网格布局——可轻松实现将多个元素放入一行并指定各个元素的相对宽度的需求。Bootstrap 中大多数的class属性都可以设置于 \`div\` 元素中
+Bootstrap 使用一种响应式网格布局——可轻松实现将多个元素放入一行并指定各个元素的相对宽度的需求。Bootstrap 中大多数的class属性都可以设置于 \`div\` 元素中
 
 请注意，在这张图表中，class属性 `col-md-*` 正被使用。在这里，`md` 表示 medium \(中等的\)，`*` 代表一个数字，它指定了这个元素所占的列宽。通过此图表的属性设置可知，在中等大小的屏幕上\(例如笔记本电脑\)，元素的列宽被指定了。
 
@@ -6,13 +6,13 @@
 
 `<div class="row">`
 
-` <div class="col-xs-4"><button class="btn btn-block btn-primary">Like</button></div>`
+`<div class="col-xs-4"><button class="btn btn-block btn-primary">Like</button></div>`
 
 `<div class="col-xs-4"><button class="btn btn-block btn-info">Info</button></div>`
 
-` <div class="col-xs-4"><button class="btn btn-block btn-danger">Delete</button></div>`
+`<div class="col-xs-4"><button class="btn btn-block btn-danger">Delete</button></div>`
 
-` </div>`
+`</div>`
 
 结果如下：
 
@@ -26,3 +26,20 @@
 
 通过使用 `span` 元素，你可以把几个元素放在一起。你甚至可以用此为一个元素的不同部分指定样式
 
+
+
+##JQuery
+ - 你还可以用jQuery改变除了CSS以外的属性。比如，你可以让按钮变不可选。
+
+当你把按钮设置成不可选以后，这会让按钮变灰并且不能点击。
+
+jQuery有一个.prop()的方法让你来调整元素的属性.
+
+我们是这样来让按钮不可选的:
+```
+$("button").prop("disabled", true);
+$("button").prop("disabled", true);
+```
+ - jQuery有一个appendTo()方法可以把选中的元素加到其他元素中。```$("#target4").appendTo("#left-well");```
+
+![](/assets/Snip20161010_3.png)
