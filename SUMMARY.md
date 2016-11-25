@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [html5基础](chapter1.md)
-    * [mac ruby 安装](ios-ruby-安装.md)
+    * [sass 安装](ios-ruby-安装.md)
 * [HTML5学习笔记](html.md)
 * [SASS、SCSS介绍](sass、scss介绍.md)
 * [e m](e-m.md)
