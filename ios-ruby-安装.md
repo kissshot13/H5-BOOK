@@ -1,4 +1,5 @@
-#ruby
+#Sass 安装
+##ruby
  - mac 本身自带ruby
  - ruby官网的地址是:http://www.ruby-lang.org/zh_cn/
  - 查看ruby -v(查看ruby版本)
@@ -19,7 +20,7 @@
  - rvm list 可查看电脑的ruby列表
  - gem install sass 安装sass
 
-#compass
+##compass
  - compass是在sass基础上二次开发的一个框架
  - 安装：gem install compass
  - 在终端初始化compass项目：
