@@ -1,5 +1,5 @@
-# My Awesome Book
-
+#Sass／scss 介绍
+```
 SCSS即是SASS的新语法，是Sassy CSS的简写，是CSS3语法的超集，也就是说所有有效的CSS3样式也同样适合于SASS。
 
 例如：
@@ -317,6 +317,6 @@ SASS允许用户编写自己的函数。
 @function double($n) {@return $n * 2;}
 
 #sidebar {width: double(5px);}
+```
 
-（完）
 

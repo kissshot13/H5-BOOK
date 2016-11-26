@@ -168,7 +168,20 @@ F11 全屏模式
  - 管理插件工具：packagecontrol
  - 通过packagecontrol可以下载很多其它插件，官网：https://packagecontrol.io/
  - 按下Cmd+Shift+P 调出命令面板，输入install并调出Install Package选项并回车，然后在列表中选中要安装的插件。
- - 插件推荐：
+ ###插件推荐：
+ - AdvancedNewFile：⌘⌥ N 即 新建，然后 sublime text 下方便会弹出一个文本输入框，只要在里面输入文件名，或多层次的路径，然后回车，即可。相应文件或多层次的路径就会立刻在工程目录下新建完全。
+ - DocBlockr：注释插件
+ - 
  
- 
+
+
+
+
+
+
+
+
+
+
+
 
