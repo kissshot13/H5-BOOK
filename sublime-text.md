@@ -174,6 +174,7 @@ F11 全屏模式
  - emmet：快速编写HTML代码；
 
  ###emmet插件快捷键
+ ####html缩写
  - 初始化：HTML文档需要包含一些固定的标签，比如<html>、<head>、<body>等，现在你只需要1秒钟就可以输入这些标签。比如输入“!”或“html:5”，然后按Tab键：
  - 轻松添加类、id、文本和属性：连续输入类和id，比如p.bar#foo，会自动生成
 `<p class="bar" id="foo"></p> `
@@ -183,7 +184,8 @@ F11 全屏模式
 +：同级标签符号
 ^：可以使该符号前的标签提升一行
 
- - 要定义多个元素，可以使用*符号。比如，`ul>li*3`可以生成:
+ - 要定义多个元素，可以使用*符号。比如
+`ul>li*3`可以生成:
 ```
   <ul>  
   <li></li>  
@@ -191,7 +193,41 @@ F11 全屏模式
   <li></li>  
   </ul>
 ```
- - 
+ - 如果输入 `ul>li.item$*3`，将会生成如下代码
+```
+<ul>  
+  <li class="item1"></li>  
+  <li class="item2"></li>  
+  <li class="item3"></li>  
+</ul> 
+```
+ #### css缩写
+ - 比如要定义元素的宽度，只需输入w100，即可生成：`width：100px`
+ - 除了px，也可以生成其他单位，比如输入h10p+m5e：
+    ```
+     height: 10%;  
+     margin: 5em;
+    ```
+   - 单位别名：
+    ```
+    p 表示%
+    e 表示 em
+    x 表示 ex
+    ```
+ - 模糊匹配：如果有些缩写你拿不准，Emmet会根据你的输入内容匹配最接近的语法，比如输入ov:h、ov-h、ovh和oh，生成的代码是相同的
+ - 供应商前缀：
+  ```
+    w 表示 -webkit-
+    m 表示 -moz-
+    s 表示 -ms-
+    o 表示 -o-
+  ```
+ - 渐变：输入lg(left, #fff 50%, #000)会产生：
+    ```
+    background-image: -webkit-linear-gradient(left, #fff 50%, #000);
+    background-image: -o-linear-gradient(left, #fff 50%, #000);
+    background-image: linear-gradient(to right, #fff 50%, #000);
+```
  
 
 
