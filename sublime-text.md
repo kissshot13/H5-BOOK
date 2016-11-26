@@ -168,6 +168,7 @@ F11 全屏模式
  - 管理插件工具：packagecontrol
  - 通过packagecontrol可以下载很多其它插件，官网：https://packagecontrol.io/
  - 按下Cmd+Shift+P 调出命令面板，输入install并调出Install Package选项并回车，然后在列表中选中要安装的插件。
- - 
+ - 插件推荐：
+ 
  
 
