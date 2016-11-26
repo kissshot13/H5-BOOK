@@ -7,6 +7,7 @@
 * [HTML5学习笔记](html.md)
 * [利用js生成随机颜色的几种方法](利用j-s.md)
 * [1.HTML](1html.md)
+    * [1.1初始化一个项目](11初始化一个项目.md)
 * [2.CSS](2css.md)
     * [2.1sass\/scss introduction](21sassscss-introduction.md)
 * [3.JavaScript](3javascript.md)
