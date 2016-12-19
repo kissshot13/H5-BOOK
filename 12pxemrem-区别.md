@@ -33,4 +33,10 @@ html {
 font-size: 62.5%;
 }
 ```
-然后使用rem； 
+然后使用rem；单是chrome不支持12px以下字体。设置html设置12px以下会变成12px，所以设置
+```
+html {
+font-size: 62.5%;
+}
+//1rem 还是等于12px；
+```
