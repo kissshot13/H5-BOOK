@@ -28,7 +28,7 @@
 * 安装：gem install compass
 * 在终端初始化compass项目：
   ![](/assets/Snip20161125_2.png)
-  实时在线监听变化：
+- 实时在线监听变化：
   ![](/assets/Snip20161125_3.png)
 
 
