@@ -1,3 +1,4 @@
+## mac 终端常用指令
 ![](/assets/Snip20161125_4.png)
 ![](/assets/Snip20161125_5.png)
 ![](/assets/Snip20161125_7.png)
