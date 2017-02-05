@@ -4,6 +4,7 @@
 * [工具安装](chapter1.md)
   * [sass 安装](ios-ruby-安装.md)
   * [Sublime Text](sublime-text.md)
+  * [vim 常用指令](vim.md)
 * [HTML5学习笔记](html.md)
 * [1.HTML](1html.md)
   * [1.1 初始化一个项目](11初始化一个项目.md)
