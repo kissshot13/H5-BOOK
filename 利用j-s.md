@@ -46,3 +46,6 @@ alert(parseInt("0xffffff",16).toString(10));
 上面版本生成颜色的范围算是大而全，但随之而来的问题是颜色不好看，于是实现8搞出来了。它生成的颜色相当鲜艳。
 实现8JavaScript代码var getRandomColor = function(){ return "hsb(" + Math.random() + ", 1, 1)"; }
 ```
+
+
+
