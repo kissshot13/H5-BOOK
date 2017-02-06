@@ -1,11 +1,11 @@
 # Summary
 
 * [简介](README.md)
-* [工具安装](chapter1.md)
-  * [sass 安装](ios-ruby-安装.md)
-  * [Sublime Text](sublime-text.md)
-  * [vim 常用指令](vim.md)
-  * [mac 终端指令](mac.md)
+* [0.准备工作](chapter1.md)
+  * [0.1.sass 安装](ios-ruby-安装.md)
+  * [0.2.Sublime Text命令](sublime-text.md)
+  * [0.3.vim 常用指令](vim.md)
+  * [0.4.mac 终端指令](mac.md)
 * [HTML5学习笔记](html.md)
 * [1.HTML](1html.md)
   * [1.1 初始化一个项目](11初始化一个项目.md)
