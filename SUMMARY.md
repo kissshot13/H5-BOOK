@@ -6,6 +6,7 @@
   * [0.2.Sublime Text命令](section0/0.2.md)
   * [0.3.vim 常用指令](section0/0.3.md)
   * [0.4.mac 终端指令](section0/0.4.md)
+  * [0.5.使用gitbook](section0/0.5.gitbook.md)
 * [1.HTML](section1/README.md)
   * [1.1.初始化一个项目](section1/1.1.md)
   * [1.2.px/em/rem 区别](section1/1.2.md)
