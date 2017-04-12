@@ -11,13 +11,13 @@
     * [1.1.初始化一个项目](section1/1.1.md)
     * [1.2.px\/em\/rem 区别](section1/1.2.md)
     * [1.3.Bootstrap](section1/1.3.md)
-* [2.CSS](section2/README.md)
-    * [2.1.sass\/scss introduction](section2/2.1.md)
 * [3.JavaScript](section3/README.md)
     * [3.2.js随机生成颜色](section3/3.1.md)
+* [2.CSS](section2/README.md)
+    * [2.1.sass\/scss introduction](section2/2.1.md)
 * [4.浏览器](section4/README.md)
     * [4.1.浏览器知识](section4/4.1..md)
-* 5.jQUery
+* [5.jQUery](5jquery.md)
 * [6.EasyUI](6easyui.md)
     * 6.1.简介
 
