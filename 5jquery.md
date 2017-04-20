@@ -6,4 +6,12 @@
    - `$(document).ready(function(){})`可以简写成`$(function(){})`
  - 向.ready()回调函数传入参数
   - 在某些情况下，可能有必要在同一个页面使用多个JavaScript库。由于很多库都使用$标识符，因此就需要一种方式来避免名称冲突。
-  - jq提供jQuery.noConfict()方法。调用该方法可以把
+  - jq提供jQuery.noConfict()方法。调用该方法可以把$控制符的控制权让渡还给其他库。使用的一般模式为：
+```
+<script src="prototype.js"></script>
+<script src="jquery.js"></script>
+<script>
+    jQuery.noConflict();
+</script>
+<script src="myscript.js"></script>
+```
