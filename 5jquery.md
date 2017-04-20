@@ -15,3 +15,9 @@
 </script>
 <script src="myscript.js"></script>
 ```
+首先。包含jQuery之外的库（这里是Prototype）。然后，包含jQuery库。取得$使用权。接着，调用.noConflict()方法让出$,以便将控制权交还给最先包含的库（Prototype）。这样就可以在自定义脚本中使用两个库了。但是在使用jQuery方法的时候，必须记住要用jQuery而不是$调用。在这种情况下，可以使用在.read()方法中使用$参数。利用这个可是重新使用$而不必担心冲突。
+```
+jQuery(document).ready(function($){})
+或
+jQuery(function($){})
+```
