@@ -19,6 +19,7 @@
     * [4.1.浏览器知识](section4/4.1..md)
 * [5.jQUery](5jquery.md)
     * [5.1.选择元素](51选择元素.md)
+    * 5.2.事件
 * [6.EasyUI](6easyui.md)
     * 6.1.简介
 
