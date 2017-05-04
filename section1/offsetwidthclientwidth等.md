@@ -53,3 +53,11 @@ offsetHeight = height(需要提一下：CSS中的margin属性，与clientWidth�
  - 屏幕分辨率的宽： window.screen.width;
  - 屏幕可用工作区高度： window.screen.availHeight;
  - 屏幕可用工作区宽度：window.screen.availWidth;
+ - Window对象的innerWidth属性包含当前窗口的内部宽度。Window对象的innerHeight属性包含当前窗口的内部高度。
+
+- 滚动条宽度：
+```
+var cWidth = document.body.clientWidth || document.documentElement.clientWidth;//页面可视区域宽度
+var iWidth = window.innerWidth;//浏览器窗口大小
+var sWidth = iWidth - cWidth;//滚动条宽度
+```
