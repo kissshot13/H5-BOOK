@@ -14,7 +14,6 @@
 * [2.CSS](section2/README.md)
   * [2.1.sass/scss introduction](section2/2.1.md)
 * [3.JavaScript](section3/README.md)
-  * [3.2.js随机生成颜色](section3/3.1.md)
 * [4.浏览器](section4/README.md)
   * [4.1.浏览器知识](section4/4.1..md)
 
