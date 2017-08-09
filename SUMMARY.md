@@ -17,7 +17,7 @@
   * [1.2.px/em/rem 区别](Chapter1/section1/1.2.md)
   * [1.3.Bootstrap](Chapter1/section1/1.3.md)
 * [2.CSS](Chapter1/section2/README.md)
-  * [2.1.sass/scss introduction](Chapeter1/section2/2.1.md)
+  * [2.1.sass/scss introduction](Chapter1/section2/2.1.md)
 * [3.JavaScript](Chapter1/section3/README.md)
 * [4.浏览器](Chapter1/section4/README.md)
   * [4.1.浏览器知识](Chapter1/section4/4.1..md)
