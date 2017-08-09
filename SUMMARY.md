@@ -1,14 +1,13 @@
 # Summary
 
-## 目录
-
-* [*目录](SUMMARY.md)
+## 前端开发
+* [1.简介]（README.md）
+* [2.目录](SUMMARY.md)
 
 ## 基础
 
 * [简介](README.md)
 * [0.准备工作](section0/README.md)
-  [0.1.sass 安装](section0/0.1.md)
   * [0.2.Sublime Text命令](section0/0.2.md)
   * [0.3.vim 常用指令](section0/0.3.md)
   * [0.4.mac 终端指令](section0/0.4.md)
@@ -26,6 +25,4 @@
 ## 框架
 
 * 1.JQuery
-
-
 
