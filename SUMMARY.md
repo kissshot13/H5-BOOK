@@ -7,7 +7,6 @@
 
 ## 基础
 
-* [简介](README.md)
 * [0.准备工作](section0/README.md)
   * [0.2.Sublime Text命令](section0/0.2.md)
   * [0.3.vim 常用指令](section0/0.3.md)
