@@ -23,6 +23,7 @@ jQuery(function($){})
 ```
 
 - 常见的DOM事件：
+
 |鼠标事件|键盘事件|表单事件|文档窗口事件|
 |---|---|--|---|
 |click|keypress|submit|load|
