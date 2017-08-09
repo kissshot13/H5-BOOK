@@ -1,7 +1,8 @@
 # Summary
 
 ## 前端开发
-* [1.简介]（README.md）
+
+* [1.简介](README.md)
 * [2.目录](SUMMARY.md)
 
 ## 基础
