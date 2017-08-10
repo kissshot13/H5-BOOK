@@ -16,6 +16,7 @@
   * [1.1.初始化一个项目](Chapter1/section1/1.1.md)
   * [1.2.px/em/rem 区别](Chapter1/section1/1.2.md)
   * [1.3.Bootstrap](Chapter1/section1/1.3.md)
+  * [1.4.H5新增之Worker多线程](chapter1/section1/1.4.Worker多线程.md)
 * [2.CSS](Chapter1/section2/README.md)
   * [2.1.sass/scss introduction](Chapter1/section2/2.1.md)
 * [3.JavaScript](Chapter1/section3/README.md)
