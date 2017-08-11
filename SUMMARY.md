@@ -14,7 +14,7 @@
   * [0.4.使用gitbook](Chapter1/section0/0.5.gitbook.md)
 * [1.HTML](Chapter1/section1/README.md)
   * [1.1.gulp初始化一个项目](Chapter1/section1/1.1.gulp初始化一个项目.md)
-  * [1.2.细说gulp](Chapter1/section1/1.1.gulp初始化一个项目.md)
+  * [1.2.细说gulp](Chapter1/section1/1.2.细说gulp.md)
   * [1.2.模板引擎PUG](Chapter1/section1/1.2.PUG.md)
   * [1.2.px/em/rem 区别](Chapter1/section1/1.2.md)
   * [1.3.Bootstrap](Chapter1/section1/1.3.md)
