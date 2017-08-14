@@ -23,6 +23,7 @@
   * [2.1.sass 安装](Chapter1/section2/2.1.Sass安装.md)
   * [2.1.sass/scss introduction](Chapter1/section2/2.1.md)
 * [3.JavaScript](Chapter1/section3/README.md)
+  * [3.1.JS基础](Chapter1/section3/3.1.JS基础.md)
 * [4.浏览器](Chapter1/section4/README.md)
   * [4.1.浏览器知识](Chapter1/section4/4.1..md)
 
