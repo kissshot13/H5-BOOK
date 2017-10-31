@@ -33,4 +33,6 @@
 * [1.JQuery](kuang-jia/1jquery.md)
   * [1.1.选择元素](Chapter2/section1/1.1.选择元素.md)
   * [1.2.事件](Chapter2/section1/1.2.事件.md)
+* [2.vue](vue/README.md)
+  * [2.1.vue-cli + webpack 创建项目](vue/1.vue-cli+webpack创建项目.md)
 
