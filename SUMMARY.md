@@ -35,4 +35,6 @@
   * [1.2.事件](Chapter2/section1/1.2.事件.md)
 * [2.vue](vue/README.md)
   * [2.1.vue-cli + webpack 创建项目01](vue/1.vue-cli+webpack创建项目01.md)
+  * [2.2.vue-cli + webpack 创建项目02](vue/1.vue-cli+webpack创建项目02.md) 
+
 
