@@ -37,5 +37,6 @@
 * [2.vue](vue/README.md)
   * [2.1.vue-cli + webpack 创建项目01](vue/1.vue-cli+webpack创建项目01.md)
   * [2.2.vue-cli + webpack 创建项目02](vue/1.vue-cli+webpack创建项目02.md) 
+  * [2.3.vuex辅助函数解析](vue/2.vuex辅助函数解析.md)
 
 
