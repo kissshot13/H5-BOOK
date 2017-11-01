@@ -25,6 +25,7 @@
 * [3.JavaScript](Chapter1/section3/README.md)
   * [3.1.JS基础](Chapter1/section3/3.1.JS基础.md)
   * [3.2.JS面向对象编程](Chapter1/section3/3.2.JS面向对象编程.md)
+  * [3.3.JS__proto__和prototype](Chapter1/section3/3.3.JS__proto__和prototype.md)
 * [4.浏览器](Chapter1/section4/README.md)
   * [4.1.浏览器知识](Chapter1/section4/4.1..md)
 
