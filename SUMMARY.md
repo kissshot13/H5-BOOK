@@ -29,7 +29,7 @@
 * [4.浏览器](Chapter1/section4/README.md)
   * [4.1.浏览器知识](Chapter1/section4/4.1..md)
 * [5.工具](utils/README.md)
-  * [5.1.webpack初探](utils/1.webpack_初探)
+  * [5.1.webpack初探](utils/1.webpack初探.md)
 
 ## 框架
 
